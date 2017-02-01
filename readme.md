@@ -1,5 +1,5 @@
 #Readme
 
-This is readme for CodeChef Project.
+This is readme for CareerCup Project.
 
-I keep all my coding solutions and practices in this Project.
+I keep all my coding solutions and practices from CareerCup.com in this Project.
